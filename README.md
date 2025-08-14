@@ -1,6 +1,12 @@
 # s2-fast-restarts
-WIP (Beta)
 
-Credit: Tigerbate for helping me find the tilda key.
+fast restart -> F6
 
-Beta Testers - Excosis, Dnorr
+Credit - Tigerbate for helping me find the tilde key.
+
+Testers - Excosis, Dnorr, Randeazy
+
+# Disclaimer
+For educational purposes. 
+
+Use at your own risk.
