@@ -5,6 +5,8 @@ Use at your own risk.
 
 fast restart -> F6
 
+AV may interfere with download (make exception)
+
 
 # Known issues
   - Special Meter indicator does not always appear.
