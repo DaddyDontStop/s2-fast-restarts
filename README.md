@@ -3,7 +3,7 @@ For educational purposes.
 
 Use at your own risk.
 
-fast restart -> F6
+fast restart -> F6,
 map restart  -> F8
 
 AV may interfere with download (make exception)
