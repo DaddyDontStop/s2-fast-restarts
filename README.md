@@ -15,3 +15,6 @@ AV may interfere with download (make exception)
 # Additional features
   - unique string identifier
   - unix timestamp
+
+# Credit
+  - [Zyl0w](https://github.com/itszylow/) (co-author)
