@@ -17,4 +17,4 @@ AV may interfere with download (make exception)
   - unix timestamp
 
 # Credit
-  - [Zyl0w](https://github.com/itszylow/) (co-author)
+  - [Zyl0w] (co-author)
