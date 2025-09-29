@@ -13,6 +13,7 @@ AV may interfere with download (make exception)
   - fix UI bugs with map restart
     
 # Additional features
+  - soft unlock for cons
   - unique string identifier
   - unix timestamp
 
