@@ -8,7 +8,7 @@ Use at your own risk.
 AV may interfere with download (make exception)
 
 # Known issues
-  - cons only work if you have at least 1 of them.
+  - cons only work if you have at least 1 of them
   - fix UI bugs with map restart
     
 # Additional features
