@@ -13,6 +13,7 @@ AV may interfere with download (make exception)
   - soft unlock for cons
   - weapon variant unlock (language must be set to english)
   - unique string identifier: <b>title - version - checksum - session start timestamp - unique string - unix timestamp - session restart counter</b>
+  - crc32 checksum: 0x84C108CA
 
 # Credit
   - [Zyl0w] (co-author)
