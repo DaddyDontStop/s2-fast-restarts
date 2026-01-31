@@ -12,7 +12,7 @@ AV may interfere with download (make exception)
 # Features
   - soft unlock for cons
   - variant unlock (language must be set to english)
-  - unique string identifier [title-version-checksum-session start timestamp-unique string-unix timestamp-session restart counter]
+  - unique string identifier: <b>title - version - checksum - session start timestamp - unique string - unix timestamp - session restart counter</b>
 
 # Credit
   - [Zyl0w] (co-author)
