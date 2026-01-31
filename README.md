@@ -1,5 +1,5 @@
 # Disclaimer
-<b> For educational purposes.
+<b> For educational purposes only.
 Use at your own risk.</b>
 
   - fast restart -> F8
