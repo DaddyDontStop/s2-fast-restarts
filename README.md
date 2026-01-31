@@ -1,20 +1,18 @@
 # Disclaimer
-For educational purposes. 
-Use at your own risk.
+<b> For educational purposes.
+Use at your own risk.</b>
 
   - fast restart -> F8
   - map restart  -> F9
+  - toggle options menu -> F10
+  - custom keybinds
 
 AV may interfere with download (make exception)
 
-# Known issues
-  - cons only work if you have at least 1 of them
-  - fix UI bugs with map restart
-    
-# Additional features
+# Features
   - soft unlock for cons
-  - unique string identifier
-  - unix timestamp
+  - variant unlock (language must be set to english)
+  - unique string identifier [title-version-checksum-session start timestamp-unique string-unix timestamp-session restart counter]
 
 # Credit
   - [Zyl0w] (co-author)
